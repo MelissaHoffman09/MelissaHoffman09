@@ -1,9 +1,5 @@
 ### Hi there 👋
  Welcome to my GitHub
- - 🔭 I’m currently working on my portfolio
- - 🌱 I’m currently learning: Python & Django
- - ⚡ Fun fact: I love SciFi, Cryptos, and Coding 
- - 📫 How to reach me: https://www.linkedin.com/in/melissahoffman09/
 <!--
 **MelissaHoffman09/MelissaHoffman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
