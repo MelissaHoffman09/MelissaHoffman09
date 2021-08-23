@@ -1,6 +1,11 @@
 ### Hi there 👋
  Welcome to my GitHub
 <!--
+- 🌱 I’m currently learning Python & Django
+- 👯 I’m looking to collaborate on more MERN stack projects
+- 📫 How to reach me: https://www.linkedin.com/in/melissahoffman09/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love Sci-Fi movies, visiting art galleries, cryptos, and coding.
 **MelissaHoffman09/MelissaHoffman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
