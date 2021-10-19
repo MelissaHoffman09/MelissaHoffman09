@@ -1,6 +1,5 @@
 ### Hi there 👋
  Welcome to my GitHub
- - 🌱 I’m currently learning Python & Django
 - 👯 I’m looking to collaborate on more MERN stack projects
 - 📫 How to reach me: https://www.linkedin.com/in/melissahoffman09/
 - ⚡ Fun fact: I love Sci-Fi movies, visiting art galleries, cryptos, coding, and designing.
